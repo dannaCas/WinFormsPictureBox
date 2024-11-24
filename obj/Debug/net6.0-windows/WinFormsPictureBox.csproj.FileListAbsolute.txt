@@ -1,0 +1,17 @@
+C:\CURSO C#\WinFormsPictureBox\bin\Debug\net6.0-windows\WinFormsPictureBox.exe
+C:\CURSO C#\WinFormsPictureBox\bin\Debug\net6.0-windows\WinFormsPictureBox.deps.json
+C:\CURSO C#\WinFormsPictureBox\bin\Debug\net6.0-windows\WinFormsPictureBox.runtimeconfig.json
+C:\CURSO C#\WinFormsPictureBox\bin\Debug\net6.0-windows\WinFormsPictureBox.dll
+C:\CURSO C#\WinFormsPictureBox\bin\Debug\net6.0-windows\WinFormsPictureBox.pdb
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.Form1.resources
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.Properties.Resources.resources
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.csproj.GenerateResource.cache
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.AssemblyInfoInputs.cache
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.AssemblyInfo.cs
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.csproj.CoreCompileInputs.cache
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.dll
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\refint\WinFormsPictureBox.dll
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.pdb
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\WinFormsPictureBox.genruntimeconfig.cache
+C:\CURSO C#\WinFormsPictureBox\obj\Debug\net6.0-windows\ref\WinFormsPictureBox.dll
